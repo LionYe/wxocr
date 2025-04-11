@@ -1,4 +1,4 @@
-# WeChat OCR API Docker
+# WeChat OCR API Docker   https://www.v2ex.com/t/1120897
 
 A Dockerized REST API service for text recognition using WeChat's OCR engine.
 
